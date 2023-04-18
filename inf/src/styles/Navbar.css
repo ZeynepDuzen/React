@@ -11,7 +11,7 @@
 .reactLogo{
   max-width: 100px; 
   height: auto; 
-  margin-left: 200px;                   
+  margin-left: 0.5rem;                   
 }
 .left-title{
   font-family:'Times New Roman', Times, serif;
@@ -19,7 +19,7 @@
   font-size: 40px;
   color:dodgerblue;
   position: relative;
-  margin-left:-80rem;
+  margin-right: 64rem;
   padding-top: 20px;
 }
 .right-title{
@@ -28,4 +28,5 @@
   font-size: 20px;
   position: relative; 
   padding-top: 40px;
+  margin-right: 1.5rem;
 }
