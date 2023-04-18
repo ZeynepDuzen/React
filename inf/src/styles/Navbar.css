@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+  padding: 0px;                            
+}
+.navigation{
+  background-color: black;
+  color: white;
+  display:flex;
+  justify-content: space-between;
+}
+.reactLogo{
+  max-width: 100px; 
+  height: auto;                    
+}
+.left-title{
+  font-family:'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 40px;
+  color:dodgerblue;
+  position: relative;
+  margin-left:-93rem;
+  padding-top: 20px;
+}
+.right-title{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 20px;
+  position: relative; 
+  padding-top: 40px;
+}
